@@ -1,0 +1,53 @@
+﻿@model List<MyFarmProduct.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section class="home-section home-fade home-full-height" id="home">
+    <div class="hero-slider">
+        <ul class="slides">
+            <li class="bg-dark-30 bg-dark shop-page-header" style="background-image:url(&quot;/images/banner1.jpg&quot;);">
+            </li>
+            <li class="bg-dark-30 bg-dark shop-page-header" style="background-image:url(&quot;/images/banner2.jpg&quot;);">
+            </li>
+        </ul>
+    </div>
+</section>
+
+<div class="main">
+    <section class="module-small">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-sm-offset-3">
+                    <h2 class="module-title font-alt">Latest Products</h2>
+                </div>
+            </div>
+            <div class="row multi-columns-row">
+                @foreach (var product in Model)
+                {
+                    <div class="col-sm-6 col-md-3 col-lg-3">
+                        <div class="shop-item">
+                            <div class="shop-item-image">
+                                <img src="~/images/Products/@product.Image" alt="@product.Name" />
+                            </div>
+                            <h4 class="shop-item-title font-alt"><a href="#">@product.Name</a></h4>@product.Price / @product.Unit
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="row mt-30">
+                <div class="col-sm-12 align-center"><a class="btn btn-b btn-round" href="#">See all products</a></div>
+            </div>
+        </div>
+    </section>
+    <section class="module module-video bg-dark-30" data-background="">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-sm-offset-3">
+                    <h2 class="module-title font-alt mb-0">Be inspired. Get ahead of trends.</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <hr class="divider-d">
+</div>

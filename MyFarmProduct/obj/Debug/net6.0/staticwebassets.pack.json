@@ -1,0 +1,1429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyFarmProduct.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyFarmProduct.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\css\\colors\\default-rtl.css",
+      "PackagePath": "staticwebassets\\css\\colors\\default-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\css\\colors\\default.css",
+      "PackagePath": "staticwebassets\\css\\colors\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\css\\style-rtl.css",
+      "PackagePath": "staticwebassets\\css\\style-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\6096754e-088b-426d-9673-f15d7688fca2.jpeg",
+      "PackagePath": "staticwebassets\\images\\Products\\6096754e-088b-426d-9673-f15d7688fca2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Apples.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Apples.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Barley.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Barley.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Grapes.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Grapes.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Nectarines.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Nectarines.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Oranges.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Oranges.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Peaches.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Peaches.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Plums.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Plums.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Potatoes.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Potatoes.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Sorghum.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Sorghum.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Soybeans.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Soybeans.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Sugarcane.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Sugarcane.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Sunflowerseeds.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Sunflowerseeds.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Tomatoes.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Tomatoes.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\Wheat.png",
+      "PackagePath": "staticwebassets\\images\\Products\\Wheat.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\cab3d396-3db7-49b0-9629-86daf2faad9f.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\cab3d396-3db7-49b0-9629-86daf2faad9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\Products\\maizeseeds.png",
+      "PackagePath": "staticwebassets\\images\\Products\\maizeseeds.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\next-light.png",
+      "PackagePath": "staticwebassets\\images\\next-light.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\images\\prev-light.png",
+      "PackagePath": "staticwebassets\\images\\prev-light.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate.css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\components-font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\components-font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\components-font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\components-font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\components-font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\desandro-matches-selector\\matches-selector.js",
+      "PackagePath": "staticwebassets\\lib\\desandro-matches-selector\\matches-selector.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\Read Me.txt",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\et-line-font.css",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\et-line-font.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\et-line.dev.svg",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\et-line.dev.svg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\index.html",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\et-line-font\\lte-ie7.js",
+      "PackagePath": "staticwebassets\\lib\\et-line-font\\lte-ie7.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\ev-emitter\\ev-emitter.js",
+      "PackagePath": "staticwebassets\\lib\\ev-emitter\\ev-emitter.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\fizzy-ui-utils\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\fizzy-ui-utils\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\flexslider\\flexslider.css",
+      "PackagePath": "staticwebassets\\lib\\flexslider\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\flexslider\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\lib\\flexslider\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\flexslider\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\lib\\flexslider\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\flexslider\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\lib\\flexslider\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\flexslider\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\lib\\flexslider\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\flexslider\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\lib\\flexslider\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\get-size\\get-size.js",
+      "PackagePath": "staticwebassets\\lib\\get-size\\get-size.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\imagesloaded\\imagesloaded.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\imagesloaded\\imagesloaded.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\isotope\\dist\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\dist\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery.mb.ytplayer\\dist\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\lib\\jquery.mb.ytplayer\\dist\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\magnific-popup\\dist\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\lib\\magnific-popup\\dist\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\magnific-popup\\dist\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\lib\\magnific-popup\\dist\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\masonry\\dist\\masonry.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\masonry\\dist\\masonry.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\outlayer\\outlayer.js",
+      "PackagePath": "staticwebassets\\lib\\outlayer\\outlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\README.md",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\ROADMAP.md",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\ROADMAP.md"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\_config.json",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\_config.json"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\README.md",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\dist\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\dist\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\css\\docs.theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\css\\docs.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\README.md",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\animate.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\animate.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\autoheight.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\autoheight.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\autoplay.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\autoplay.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\autowidth.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\autowidth.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\basic.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\center.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\center.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\demos.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\demos.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\events.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\lazyLoad.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\lazyLoad.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\merge.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\merge.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\mousewheel.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\mousewheel.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\responsive.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\responsive.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\rtl.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\stagepadding.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\stagepadding.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\test.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\test.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\urlhashnav.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\urlhashnav.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\demos\\video.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\demos\\video.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\api-classes.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\api-classes.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\api-events.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\api-events.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\api-options.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\api-options.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\dev-buildin-plugins.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\dev-buildin-plugins.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\dev-external.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\dev-external.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\dev-plugin-api.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\dev-plugin-api.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\dev-styles.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\dev-styles.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\started-faq.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\started-faq.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\started-installation.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\started-installation.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\started-welcome.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\started-welcome.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\support-changelog.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\support-changelog.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\support-contact.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\support-contact.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\docs\\support-contributing.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\docs\\support-contributing.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs\\index.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\scss\\_settings.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\scss\\_settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\scss\\custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\scss\\demos.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\scss\\demos.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\scss\\docs.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\scss\\docs.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\scss\\docs.theme.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\scss\\docs.theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\scss\\highlight.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\scss\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\data\\classes.json",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\data\\classes.json"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\data\\events.json",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\data\\events.json"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\data\\features.json",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\data\\features.json"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\data\\options.json",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\data\\options.json"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\helpers\\modulo.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\helpers\\modulo.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\helpers\\test.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\helpers\\test.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\layouts\\demos.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\layouts\\demos.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\layouts\\docs.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\layouts\\docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\layouts\\home.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\layouts\\home.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\animate.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\animate.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\autoheight.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\autoheight.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\autoplay.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\autoplay.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\autowidth.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\autowidth.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\basic.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\basic.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\center.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\center.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\demos.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\demos.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\events.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\events.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\merge.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\merge.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\mousewheel.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\mousewheel.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\responsive.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\responsive.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\rtl.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\rtl.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\stagepadding.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\stagepadding.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\test.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\test.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\video.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\demos\\video.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-classes.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-classes.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-events.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-events.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-options.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\api-options.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-external.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-external.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-styles.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\dev-styles.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-faq.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-faq.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-installation.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-installation.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-welcome.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\started-welcome.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-changelog.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-changelog.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-contact.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-contact.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-contributing.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\docs\\support-contributing.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\pages\\index.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\pages\\index.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\footer.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\footer.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\head.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\head.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\header.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\header.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\home-carousel.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\home-carousel.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\home-features.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\home-features.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\home-hero.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\home-hero.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\home-teaser-text.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\home-teaser-text.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\javascripts.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\javascripts.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\releated-docs.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\releated-docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\sidenav-docs.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\sidenav-docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\title.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\title.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\docs_src\\templates\\partials\\vendors.hbs",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\docs_src\\templates\\partials\\vendors.hbs"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\package.json",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\img\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\img\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.animate.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.animate.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.autoheight.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.autoheight.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.autoplay.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.autoplay.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.autorefresh.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.autorefresh.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.hash.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.hash.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.lazyload.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.lazyload.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.navigation.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.navigation.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.support.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.support.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.support.modernizr.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.support.modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\js\\owl.video.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\js\\owl.video.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\_animate.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\_autoheight.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\_autoheight.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\_lazyload.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\_lazyload.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\_theme.default.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\_theme.default.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\_theme.green.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\_theme.green.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\_theme.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\_video.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\_video.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\owl.carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\owl.carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\owl.theme.default.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\owl.theme.default.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\src\\scss\\owl.theme.green.scss",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\src\\scss\\owl.theme.green.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\test\\index.html",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\test\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\owl.carousel\\test\\unit\\core.js",
+      "PackagePath": "staticwebassets\\lib\\owl.carousel\\test\\unit\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\prettify.js",
+      "PackagePath": "staticwebassets\\lib\\prettify.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\simple-text-rotator\\jquery.simple-text-rotator.min.js",
+      "PackagePath": "staticwebassets\\lib\\simple-text-rotator\\jquery.simple-text-rotator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\simple-text-rotator\\simpletextrotator.css",
+      "PackagePath": "staticwebassets\\lib\\simple-text-rotator\\simpletextrotator.css"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\skrollr\\src\\skrollr.js",
+      "PackagePath": "staticwebassets\\lib\\skrollr\\src\\skrollr.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\smoothscroll.js",
+      "PackagePath": "staticwebassets\\lib\\smoothscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\lib\\wow\\dist\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\dist\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_blogpost.scss",
+      "PackagePath": "staticwebassets\\scss\\_blogpost.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_client.scss",
+      "PackagePath": "staticwebassets\\scss\\_client.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_comment_box.scss",
+      "PackagePath": "staticwebassets\\scss\\_comment_box.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_config.scss",
+      "PackagePath": "staticwebassets\\scss\\_config.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_cta.scss",
+      "PackagePath": "staticwebassets\\scss\\_cta.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_documentation.scss",
+      "PackagePath": "staticwebassets\\scss\\_documentation.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_funfact.scss",
+      "PackagePath": "staticwebassets\\scss\\_funfact.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_gmap.scss",
+      "PackagePath": "staticwebassets\\scss\\_gmap.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_media_querries.scss",
+      "PackagePath": "staticwebassets\\scss\\_media_querries.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\scss\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_preloader.scss",
+      "PackagePath": "staticwebassets\\scss\\_preloader.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_price_table.scss",
+      "PackagePath": "staticwebassets\\scss\\_price_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_restaurant_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_restaurant_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_services_and_features.scss",
+      "PackagePath": "staticwebassets\\scss\\_services_and_features.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_shop_items.scss",
+      "PackagePath": "staticwebassets\\scss\\_shop_items.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_shop_single_product.scss",
+      "PackagePath": "staticwebassets\\scss\\_shop_single_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_showcase.scss",
+      "PackagePath": "staticwebassets\\scss\\_showcase.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_single_portfolio.scss",
+      "PackagePath": "staticwebassets\\scss\\_single_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_video_box.scss",
+      "PackagePath": "staticwebassets\\scss\\_video_box.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\_widgets.scss",
+      "PackagePath": "staticwebassets\\scss\\_widgets.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\colors\\default.scss",
+      "PackagePath": "staticwebassets\\scss\\colors\\default.scss"
+    },
+    {
+      "Id": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyFarmProduct.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyFarmProduct.props",
+      "PackagePath": "build\\MyFarmProduct.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyFarmProduct.props",
+      "PackagePath": "buildMultiTargeting\\MyFarmProduct.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyFarmProduct.props",
+      "PackagePath": "buildTransitive\\MyFarmProduct.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

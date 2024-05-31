@@ -1,0 +1,36 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+
+    if (User.IsInRole("Employee"))
+    {
+        <li>
+            <a asp-area="" asp-controller="Farmers" asp-action="Index">Farmers</a>
+        </li>
+    }
+    if (User.IsInRole("Farmer"))
+    {
+        <li>
+            <a asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+        </li>
+    }
+    <li class="dropdown">
+        <a asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage" data-toggle="dropdown">Hello @User.Identity?.Name!</a>
+        <ul class="dropdown-menu">
+            <li>
+                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
+            </li>
+        </ul>
+    </li>
+}
+else
+{
+    <li>
+        <a asp-area="Identity" asp-page="/Account/Login">Login</a>
+    </li>
+}

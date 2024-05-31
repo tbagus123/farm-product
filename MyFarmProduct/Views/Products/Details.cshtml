@@ -1,0 +1,84 @@
+﻿@model MyFarmProduct.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="main">
+    <section>
+        <div class="container">
+            <h2>Product Details</h2>
+
+            <div>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Name)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Category)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Category)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Description)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Description)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ProductionDate)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.ProductionDate)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Price)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Price)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Quantity)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Quantity)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Unit)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Unit)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Image)
+                    </dt>
+                    <dd>
+                        <div class="col-sm-6 col-md-3 col-lg-3">
+                            <div class="shop-item">
+                                <div class="shop-item-image">
+                                    <img src="~/images/Products/@Model.Image" alt="@Model.Name" />
+                                </div>
+                            </div>
+                        </div>
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Farmer)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Farmer.Name)
+                    </dd>
+                </dl>
+            </div>
+            <div>
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-success">Edit</a>
+                <a asp-action="Index" class="btn btn-danger">Cancel</a>
+            </div>
+            <br />
+        </div>
+    </section>
+</div>

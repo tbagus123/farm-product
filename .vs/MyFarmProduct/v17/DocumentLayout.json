@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|c:\\users\\tawfeeqb\\onedrive - xlink communications\\desktop\\myfarmproduct\\myfarmproduct\\myfarmproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\controllers\\farmerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\views\\farmers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\views\\farmers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\views\\farmers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\views\\farmers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\views\\farmers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\views\\farmers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\views\\farmers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\views\\farmers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\views\\farmers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\data\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\data\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\models\\viewmodels\\farmerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\models\\viewmodels\\farmerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\myfarmproduct\\myfarmproduct.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9864A48F-A01C-432F-855D-D0940D9C2E75}|MyFarmProduct\\MyFarmProduct.csproj|solutionrelative:myfarmproduct\\myfarmproduct.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFarmProduct\\appsettings.json",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\appsettings.json",
+              "RelativeToolTip": "MyFarmProduct\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T08:33:37.526Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Views\\Farmers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Details.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Views\\Farmers\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:09:47.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Views\\Farmers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Edit.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Views\\Farmers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:09:41.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Views\\Farmers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Index.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Views\\Farmers\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:09:15.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FarmersController.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Controllers\\FarmersController.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Controllers\\FarmersController.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Controllers\\FarmersController.cs",
+              "RelativeToolTip": "MyFarmProduct\\Controllers\\FarmersController.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAAALwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:00:07.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Views\\Farmers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Create.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Views\\Farmers\\Create.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:08:42.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:08:07.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Program.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Program.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Program.cs",
+              "RelativeToolTip": "MyFarmProduct\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:49:54.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Views\\Farmers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Farmers\\Delete.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Views\\Farmers\\Delete.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:09:57.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:07:26.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:06:44.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "MyFarmProduct\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:05:48.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyFarmProduct\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAAFcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:03:45.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyFarmProduct\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:59:13.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Models\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "MyFarmProduct\\Models\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:54:19.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FarmerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\ViewModels\\FarmerViewModel.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Models\\ViewModels\\FarmerViewModel.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\ViewModels\\FarmerViewModel.cs",
+              "RelativeToolTip": "MyFarmProduct\\Models\\ViewModels\\FarmerViewModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:54:09.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Data\\DataSeed.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Data\\DataSeed.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Data\\DataSeed.cs",
+              "RelativeToolTip": "MyFarmProduct\\Data\\DataSeed.cs",
+              "ViewState": "AQIAAP0BAAAAAAAAAAAAABYCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:44:33.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\Product.cs",
+              "RelativeToolTip": "MyFarmProduct\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:11:33.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\Farmer.cs",
+              "RelativeToolTip": "MyFarmProduct\\Models\\Farmer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:11:22.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\Employee.cs",
+              "RelativeToolTip": "MyFarmProduct\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:11:17.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyFarmProduct\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:11:20.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyFarmProduct\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:50:35.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "MyFarmProduct\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "MyFarmProduct\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:36:40.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyFarmProduct",
+              "DocumentMoniker": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct.csproj",
+              "RelativeDocumentMoniker": "MyFarmProduct\\MyFarmProduct.csproj",
+              "ToolTip": "C:\\Users\\tawfeeqb\\OneDrive - XLINK COMMUNICATIONS\\Desktop\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct\\MyFarmProduct.csproj",
+              "RelativeToolTip": "MyFarmProduct\\MyFarmProduct.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T08:35:23.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
